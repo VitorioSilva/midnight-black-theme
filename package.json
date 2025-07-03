@@ -1,0 +1,38 @@
+{
+  "name": "midnight-black",
+  "displayName": "Midnight Black",
+  "description": "Tema dark puro para VS Code, com fundo preto absoluto e cores de sintaxe inspiradas no Drácula, garantindo conforto visual em longas sessões de programação.",
+  "publisher": "Vitorio",
+  "version": "2.25.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "icon": "icon-v2.jpg",
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VitorioSilva/midnight-black-theme"
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "black",
+    "dracula",
+    "vs-code",
+    "vscode",
+    "midnight",
+    "oled"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LUUCKDEV-color-theme.json"
+      }
+    ]
+  }
+}
