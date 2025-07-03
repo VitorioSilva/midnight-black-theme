@@ -9,7 +9,7 @@ Midnight Black é um tema dark puro para VS Code, com fundo preto absoluto e cor
 ## 🎯 Características
 
 ✅ Fundo completamente preto, destacando as cores do código  
-✅ Cores de destaque suaves inspiradas no Drácula  
+✅ Cores de destaque suaves inspiradas no Drácula    
 ✅ Consistência visual em diversas linguagens  
 ✅ Foco total no código, sem distrações visuais
 
