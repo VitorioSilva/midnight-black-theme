@@ -3,7 +3,7 @@
   "displayName": "Midnight Black",
   "description": "Tema dark puro para VS Code, com fundo preto absoluto e cores de sintaxe inspiradas no Drácula, garantindo conforto visual em longas sessões de programação.",
   "publisher": "Vitorio",
-  "version": "2.25.1",
+  "version": "1.0.17",
   "engines": {
     "vscode": "^1.86.0"
   },
