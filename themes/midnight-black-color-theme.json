@@ -53,7 +53,7 @@
             "#13141f",
             "#12131d"
         ]
-    },
+},
 	"colors": {
 		"activityBar.activeBackground": "#00000000",
 		"activityBar.activeBorder": "#ff79c680",
@@ -272,7 +272,7 @@
                 "source"
             ],
             "settings": {
-                "foreground": "#F8F8F2"
+                "foreground": "#ffffff"
             }
         },
         {
@@ -501,7 +501,7 @@
                 "entity.name.class"
             ],
             "settings": {
-                "foreground": "#8BE9FD",
+                "foreground": "#00FFFF",
                 "fontStyle": ""
             }
         },
@@ -645,7 +645,7 @@
                 "keyword.operator.function.infix"
             ],
             "settings": {
-                "foreground": "#50FA7B"
+                "foreground": "#00ff00"
             }
         },
         {
@@ -690,7 +690,7 @@
                 "punctuation.definition.keyword"
             ],
             "settings": {
-                "foreground": "#FF79C6"
+                "foreground": "#ff4fb3"
             }
         },
         {
@@ -741,7 +741,8 @@
                 "support.type.property-name"
             ],
             "settings": {
-                "fontStyle": ""
+                "fontStyle": "",
+                "foreground": "#00ff00"
             }
         },
         {
@@ -861,7 +862,7 @@
             ],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#FF79C6"
+                "foreground": "#ff4fb3"
             }
         },
         {
@@ -920,7 +921,7 @@
                 "constant.character.escape.backslash.regexp"
             ],
             "settings": {
-                "foreground": "#F1FA8C"
+                "foreground": "#ffff00"
             }
         },
         {
@@ -985,7 +986,7 @@
                 "string"
             ],
             "settings": {
-                "foreground": "#F1FA8C"
+                "foreground": "#ffff00"
             }
         },
         {
@@ -995,7 +996,7 @@
                 "punctuation.definition.string.end"
             ],
             "settings": {
-                "foreground": "#E9F284"
+                "foreground": "#ffff00"
             }
         },
         {
