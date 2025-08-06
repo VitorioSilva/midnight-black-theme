@@ -1,50 +1,51 @@
-# 🖤 Midnight Black
+# 🖤 Midnight Black  
 
-Midnight Black é um tema dark puro para VS Code, com fundo preto absoluto e cores de sintaxe inspiradas no Drácula, garantindo conforto visual durante longas sessões de programação.
+Midnight Black is a pure dark theme for VS Code featuring true black background and vibrant syntax highlighting designed for extended coding sessions without eye strain.  
 
-![Preview](images/screenshot.png)
+![Preview](images/screenshot.png)  
 
----
+---  
 
-## 🎯 Características
+## 🎯 Key Features  
 
-✅ Fundo completamente preto, destacando as cores do código  
-✅ Cores de destaque suaves inspiradas no Drácula    
-✅ Consistência visual em diversas linguagens  
-✅ Foco total no código, sem distrações visuais
+✅ Absolute black background for maximum contrast  
+✅ Carefully curated vibrant syntax colors  
+✅ Consistent visual styling across all languages  
+✅ Distraction-free coding experience  
 
----
+---  
 
-## 🚀 Instalação
+## 🚀 Installation  
 
-1️⃣ Abra o VS Code.  
-2️⃣ Vá em Extensões (Ctrl+Shift+X).  
-3️⃣ Pesquise por Midnight Black.  
-4️⃣ Clique em Instalar.  
-5️⃣ Ative o tema navegando em:
-   - Ctrl+K Ctrl+T
-   - Selecione Midnight Black.
+1️⃣ Open VS Code  
+2️⃣ Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)  
+3️⃣ Search for "Midnight Black"  
+4️⃣ Click Install  
+5️⃣ Activate the theme via:  
+   - Ctrl+K Ctrl+T (Windows/Linux)  
+   - Cmd+K Cmd+T (Mac)  
+   - Select "Midnight Black"  
 
----
+---  
 
-## 💡 Por que usar o Midnight Black?
+## 💡 Why Choose Midnight Black?  
 
-🌑 Se você ama temas realmente escuros, este é para você.  
-🩻 Ajuda a reduzir o cansaço visual.  
-🎨 Mantém o código elegante e legível.  
-⚡ Minimalista, rápido e focado em produtividade.
+🌑 Perfect for developers who love true dark themes  
+🩻 Scientifically designed to reduce eye fatigue  
+🎨 Optimized color palette for code clarity  
+⚡ Lightweight and performance-focused  
 
----
+---  
 
-## 📚 Referências
+## 📚 References  
 
-- [VS Code Marketplace](https://marketplace.visualstudio.com)
-- [Dracula Theme](https://draculatheme.com)
+- [VS Code Theme Documentation](https://code.visualstudio.com/api/extension-guides/color-theme)  
+- [Color Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)  
 
----
+---  
 
-> Instale agora e transforme seu VS Code em um ambiente de codificação elegante e focado.
+> Transform your VS Code into an elegant, focused coding environment today.  
 
----
+---  
 
-Enjoy coding with 🖤 Midnight Black!
+Enjoy coding with 🖤 Midnight Black!  
