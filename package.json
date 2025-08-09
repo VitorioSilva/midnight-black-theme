@@ -3,7 +3,7 @@
   "displayName": "Midnight Black",
   "description": "Dark VS Code theme with vibrant colors and visual comfort",
   "publisher": "Vitorio",
-  "version": "1.0.17",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.86.0"
   },

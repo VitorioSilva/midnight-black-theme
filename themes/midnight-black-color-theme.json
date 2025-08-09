@@ -165,10 +165,10 @@
         "statusBarItem.remoteForeground": "#F8F8F2",
         "tab.activeBackground": "#000000",
         "tab.activeBorderTop": "#FF79C6",
-        "tab.activeForeground": "#00FF00",
+        "tab.activeForeground": "#FFFFFF",
         "tab.border": "#000000",
         "tab.inactiveBackground": "#000000",
-        "tab.inactiveForeground": "#FFFFFF",
+        "tab.inactiveForeground": "#6272A4",
         "terminal.ansiBlack": "#21222C",
         "terminal.ansiBlue": "#BD93F9",
         "terminal.ansiBrightBlack": "#6272A4",
@@ -340,7 +340,7 @@
                 "punctuation.definition.link.restructuredtext"
             ],
             "settings": {
-                "foreground": "#cdd5d5"
+                "foreground": "#FFFFFF"
             }
         },
         {
@@ -1140,7 +1140,7 @@
             }
         },
         {
-            "name": "OM_SETTING - Normalize font without changing original Dracula Theme",
+            "name": "MidnightBlack - Normalize font without changing original Dracula Theme",
             "scope": [
                 "invalid",
                 "keyword.operator",
@@ -1270,7 +1270,7 @@
             }
         },
         {
-            "name": "OM_SETTING - New italic style based on night-owl-vscode-theme",
+            "name": "MidnightBlack - New italic style based on night-owl-vscode-theme",
             "scope": [
                 "markup.changed",
                 "meta.diff.header.git",
