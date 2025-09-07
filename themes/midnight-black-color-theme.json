@@ -5,6 +5,8 @@
     "maintainers": [
         "Vitório Santos <vitorio.tech@proton.me>"
     ],
+    "semanticClass": "theme.dracula",
+    "semanticHighlighting": true,
     "colors": {
         "activityBar.activeBackground": "#00000000",
         "activityBar.activeBorder": "#FF79C680",
