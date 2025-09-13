@@ -201,7 +201,7 @@
                 "emphasis"
             ],
             "settings": {
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -209,7 +209,7 @@
                 "strong"
             ],
             "settings": {
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -267,7 +267,7 @@
             ],
             "settings": {
                 "foreground": "#FF5555",
-                "fontStyle": "underline italic"
+                "fontStyle": ""
             }
         },
         {
@@ -276,7 +276,7 @@
             ],
             "settings": {
                 "foreground": "#F8F8F2",
-                "fontStyle": "underline italic"
+                "fontStyle": ""
             }
         },
         {
@@ -301,7 +301,7 @@
                 "markup.underline"
             ],
             "settings": {
-                "fontStyle": "underline"
+                "fontStyle": ""
             }
         },
         {
@@ -310,7 +310,7 @@
                 "markup.bold"
             ],
             "settings": {
-                "fontStyle": "bold",
+                "fontStyle": "",
                 "foreground": "#FFB86C"
             }
         },
@@ -320,7 +320,7 @@
                 "markup.heading"
             ],
             "settings": {
-                "fontStyle": "bold",
+                "fontStyle": "",
                 "foreground": "#BD93F9"
             }
         },
@@ -331,7 +331,7 @@
             ],
             "settings": {
                 "foreground": "#F1FA8C",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -385,7 +385,7 @@
             ],
             "settings": {
                 "foreground": "#F1FA8C",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -470,7 +470,7 @@
             ],
             "settings": {
                 "foreground": "#BD93F9",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -479,7 +479,7 @@
                 "entity.other.inherited-class"
             ],
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "",
                 "foreground": "#8BE9FD"
             }
         },
@@ -513,7 +513,7 @@
             ],
             "settings": {
                 "foreground": "#8BE9FD",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -532,7 +532,7 @@
             ],
             "settings": {
                 "foreground": "#FFB86C",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -581,7 +581,7 @@
             ],
             "settings": {
                 "foreground": "#50FA7B",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -612,7 +612,7 @@
                 "variable.parameter"
             ],
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "",
                 "foreground": "#FFB86C"
             }
         },
@@ -624,7 +624,7 @@
             ],
             "settings": {
                 "foreground": "#50FA7B",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -653,7 +653,7 @@
                 "keyword.operator.new"
             ],
             "settings": {
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -671,7 +671,7 @@
                 "support"
             ],
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "",
                 "foreground": "#8BE9FD"
             }
         },
@@ -800,7 +800,7 @@
                 "variable.other.alias.yaml"
             ],
             "settings": {
-                "fontStyle": "italic underline",
+                "fontStyle": "",
                 "foreground": "#50FA7B"
             }
         },
@@ -841,7 +841,7 @@
                 "storage.type.ocaml"
             ],
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "",
                 "foreground": "#8BE9FD"
             }
         },
@@ -995,7 +995,7 @@
                 "meta.variable.assignment.destructured.object.coffee variable"
             ],
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "",
                 "foreground": "#FFB86C"
             }
         },

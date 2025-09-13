@@ -40,7 +40,14 @@ Midnight Black is a pure dark theme for VS Code featuring true black background 
 ## 📚 References  
 
 - [VS Code Theme Documentation](https://code.visualstudio.com/api/extension-guides/color-theme)  
-- [Color Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)  
+- [Color Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
+
+---
+
+## 📌 Version
+Current stable release: 4.4.4  
+> This theme has reached its final version.  
+> No further updates are planned, as it already achieved the intended design.
 
 ---  
 
