@@ -3,7 +3,7 @@
   "displayName": "Midnight Black",
   "description": "Dark VS Code theme with vibrant colors and visual comfort",
   "publisher": "Vitorio",
-  "version": "4.4.4",
+  "version": "5.5.5",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -21,6 +21,7 @@
     "black theme",
     "high contrast",
     "dracula",
+    "synthwave",
     "vs-code theme",
     "vscode theme",
     "midnight theme",
@@ -38,6 +39,11 @@
         "label": "Midnight Black Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight-black-soft-color-theme.json"
+      },
+      {
+        "label": "Midnight Black Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-black-neon-color-theme.json"
       }
     ]
   }

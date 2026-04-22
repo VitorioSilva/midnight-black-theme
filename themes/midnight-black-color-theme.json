@@ -5,7 +5,6 @@
     "maintainers": [
         "Vitório Santos <vitorio.tech@proton.me>"
     ],
-    "semanticClass": "theme.dracula",
     "semanticHighlighting": true,
     "colors": {
         "activityBar.activeBackground": "#00000000",
@@ -83,7 +82,7 @@
         "editorWhitespace.foreground": "#FFFFFF1A",
         "editorWidget.background": "#000000",
         "errorForeground": "#FF5555",
-        "extensionButton.prominentBackground": "#50FA7B90",
+        "extensionButton.prominentBackground": "#001AFF",
         "extensionButton.prominentForeground": "#F8F8F2",
         "extensionButton.prominentHoverBackground": "#50FA7B60",
         "focusBorder": "#6272A4",
